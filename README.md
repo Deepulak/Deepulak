@@ -10,7 +10,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:dpulaak3@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:dpulaak@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
